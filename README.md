@@ -20,7 +20,7 @@ People who are interested in creating logos for their brands or applications.
 
 ---
 
-![]()<img src="demo.gif" alt="Table" width="600" height="450" style="display: block; margin-left:100px ;"> 
+![]()<img src="demo.gif" alt="Table" width="878" height="496" style="display: block; margin-left:100px ;"> 
 
 ---
 
